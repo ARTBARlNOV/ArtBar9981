@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artbar9981" alt="artbar9981" /></a> </p>
 
-- 🔭 I’m currently working on **DogsToDogs**
+- 🔭 I’m currently working on **D2D**
 
-- 🌱 I’m currently learning **React.native, Typescript**
+- 🌱 I’m currently learning **React.native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
