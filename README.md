@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=artbar9981&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=artbar9981&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
