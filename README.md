@@ -9,10 +9,12 @@ ________________________________________________________________________________
 ![](https://github-readme-streak-stats.herokuapp.com/?user=artbar9981&theme=gruvbox&hide_border=false)<br/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbar9981&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="artbar9981" />)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbar9981&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="artbar9981" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artbar9981&show_icons=true&theme=gruvbox&locale=en" alt="artbar9981" /></p>
 
 ___________________________________________________________________________________________________________________________________________________________
-![](https://github-profile-trophy.vercel.app/?username=artbar9981&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4))<br/>
+![](https://github-profile-trophy.vercel.app/?username=artbar9981&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
