@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artbar9981&show_icons=true&theme=gruvbox&locale=en" alt="artbar9981" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbar9981&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="artbar9981" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbar9981&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="artbar9981" /></p>
 
 ___________________________________________________________________________________________________________________________________________________________
 ![](https://github-profile-trophy.vercel.app/?username=artbar9981&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
