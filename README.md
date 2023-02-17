@@ -1,4 +1,4 @@
-Hi, My name is Artem and I am full stack developer with 2 years+ exp. <br> I’m currently working on DIDENOK TEAM<br> I’m currently learning react native, MobX<br>
+Hi, My name is Artem and I am full stack developer with 2,5 years+ exp. <br> I’m currently working on DIDENOK TEAM<br> I’m currently learning react native, MobX<br>
 ___________________________________________________________________________________________________________________________________________________________
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barinov.art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/artem-barinov-105662252) 
 
